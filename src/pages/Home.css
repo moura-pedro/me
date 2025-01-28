@@ -1,0 +1,27 @@
+* {
+    background-color: #f4f4f4;
+
+}
+
+div .content p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+}
+
+div .socials p {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+}
+
+div .socials a {
+    color: #000000;
+    text-decoration: bold
+}

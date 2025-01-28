@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    margin-top: 8rem;
+    
+    
+  }
+
+  .navbar .name a {
+    text-decoration: none;
+    color: #a5a5a5;
+    margin-right: 3rem;
+  } 
+  
+  .navbar .links a {
+    margin: 0 0.5rem;
+    text-decoration: none;
+    color: #a5a5a5;
+  }
+
+  .navbar .links a:hover {
+    color: #000;
+    transition: color 0.2s ease;
+  }
+
+  .navbar .name a:hover {
+    color: #000;
+    transition: color 0.2s ease;
+  }
+  

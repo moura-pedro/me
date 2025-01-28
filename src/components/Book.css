@@ -1,0 +1,26 @@
+.book {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.book h4, .book p, .book h5 {
+    margin: 0;
+}
+
+.book h4 {
+    display: inline-flex;
+    color: rgb(107, 114, 128);
+    font-weight: normal;
+}
+
+
+.book h5 {
+    /* margin-top: 0.5rem; */
+    color: #333;
+}
+    

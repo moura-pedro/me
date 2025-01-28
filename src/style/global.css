@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .content {
+    padding: 20px;
+    line-height: 1.6;
+  }
