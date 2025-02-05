@@ -5,9 +5,19 @@ const Reading = () => {
   // Group books by date
   const groupedBooks = [
     {
+      date: "february 2025",
+      title: "chp. 3 of numerical recipes (mainly linear, poly, cubic-spline interpolation)",
+      author: "william h. press  "
+    },
+    {
+      date: "february 2025",
+      title: "entropy-based guidance of deep neural networks for accelerated convergence and improved performance",
+      author: "mackenzie meni"
+    },
+    {
       date: "january 2025",
       title: "the future of digital health with federated learning",
-      author: "nicola rieke, jonny hancox, et al."
+      author: "nicola rieke"
     },
     {
       date: "january 2025",
